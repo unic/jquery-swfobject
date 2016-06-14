@@ -1,0 +1,13 @@
+{
+  "name": "jquery-swfobject",
+  "version": "1.0.0",
+  "description": "jQuery SWFObject Plugin. The unique functionality of SWFObject available through jQuery.",
+  "license": "Apache 2.0",
+  "author": {
+    "name": "@jon_neal"
+  },
+  "main": "./jquery.swfobject.1-1-1.min.js",
+  "dependencies": {},
+  "scripts": {},
+  "devDependencies": {}
+}
